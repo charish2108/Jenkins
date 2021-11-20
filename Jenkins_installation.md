@@ -59,3 +59,6 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 1. Build job
 1. Check "console output"
 
+## To change port number 
+Go to jenkins.xml and edit it, find for arguments and there you can change httpport-8080
+Reboot the server to see the changes 
